@@ -1,3 +1,4 @@
 #ping -c 5 ukr.net
 #ping -c 8 i.ua
-ping -c 13 i.ua
+#ping -c 13 i.ua
+ping -c 21 ukr.net
